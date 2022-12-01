@@ -1,0 +1,32 @@
+{
+    "d81e90d1-3e81-465e-afd9-164cc170a7c5": {
+        "id": "d81e90d1-3e81-465e-afd9-164cc170a7c5",
+        "name": "Stack Overflow",
+        "keyword": "so",
+        "cmd": "https://stackoverflow.com/search?q=%s",
+        "icon": "/usr/share/ulauncher/media/stackoverflow-icon.svg",
+        "is_default_search": true,
+        "run_without_argument": false,
+        "added": 1669490924.576064
+    },
+    "a9422d09-a2ba-4052-8ae0-c334420042f9": {
+        "id": "a9422d09-a2ba-4052-8ae0-c334420042f9",
+        "name": "Wikipedia",
+        "keyword": "wiki",
+        "cmd": "https://en.wikipedia.org/wiki/%s",
+        "icon": "/usr/share/ulauncher/media/wikipedia-icon.png",
+        "is_default_search": true,
+        "run_without_argument": false,
+        "added": 1669490924.5760944
+    },
+    "a7a10605-0024-4164-91cd-dac83a09e02c": {
+        "id": "a7a10605-0024-4164-91cd-dac83a09e02c",
+        "name": "Goodle",
+        "keyword": "g",
+        "cmd": "https://google.com/",
+        "icon": null,
+        "is_default_search": false,
+        "run_without_argument": false,
+        "added": 1669491007.8518724
+    }
+}
